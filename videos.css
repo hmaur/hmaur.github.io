@@ -15,7 +15,7 @@
     margin:30px
     overflow-y scroll;
     position: relative;
-    width: 95%;
+    width: 100%;
   }
  td a {
   text-decoration: none;
