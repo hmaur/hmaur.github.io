@@ -17,11 +17,18 @@
     position: relative;
     width: 100%;
   }
- td a {
+ thead{
   text-decoration: none;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 25px;
   text-align: center;
+ }
+ tbody{
+  text-decoration: none;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+  text-align: right;
+
  }
   a{
     text-decoration: none;
